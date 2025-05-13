@@ -22,15 +22,14 @@
 ### 🚗 Car Service Website (MERN Stack)  
 Built a full-featured car service booking platform using **MERN**, **Bootstrap**, and RESTful APIs.  
 🔐 Includes **secure authentication**, **real-time booking**, and **dynamic service tracking** with seamless frontend-backend integration.  
-🔗 **Live Demo:** [_Click For Demo](https://softechhhcarservice.netlify.app/)
-
+🔗 **Live Demo:** [_Click For Demo_](https://softechhhcarservice.netlify.app/)
 
 ---
 
 ### 💸 Expense Tracker Website (MERN Stack)  
 Developed a real-time expense tracking system with **Chart.js**, **Tailwind CSS**, and AI-powered budgeting features.  
 📊 Features include category filters, interactive data visualizations, and personalized finance advice integration.  
-🔗 **Live Demo:** [_Click For Demo](https://stexpenseease.netlify.app/)
+🔗 **Live Demo:** [_Click For Demo_](https://stexpenseease.netlify.app/)
 
 ---
 
@@ -78,6 +77,10 @@ Developed a real-time expense tracking system with **Chart.js**, **Tailwind CSS*
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simar111&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simar111&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simar111&theme=radical" height="165" />
 </p>
 
 ---
