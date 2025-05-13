@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/simar111/simar111/blob/main/banner.png" alt="Simar Narula Banner" width="100%" />
+  <img src="https://github.com/simar111/simar111/blob/main/Banner.png" alt="Simar Narula Banner" width="100%" />
 </p>
 
 # 👋 Hi there, I'm **Simar Narula**  
