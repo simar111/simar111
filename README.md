@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Simar Narula Banner" style="width:100%;">
+  <img src="https://github.com/simar111/simar111/blob/main/banner.png" alt="Simar Narula Banner" width="100%" />
 </p>
 
 # 👋 Hi there, I'm **Simar Narula**  
@@ -22,7 +22,7 @@
 ### 🚗 Car Service Website (MERN Stack)  
 Built a full-featured car service booking platform using **MERN**, **Bootstrap**, and RESTful APIs.  
 🔐 Includes **secure authentication**, **real-time booking**, and **dynamic service tracking** with seamless frontend-backend integration.  
-🔗 **Live Demo:** [_Click For Demo]((https://softechhhcarservice.netlify.app/))
+🔗 **Live Demo:** [_Click For Demo](https://softechhhcarservice.netlify.app/)
 
 
 ---
