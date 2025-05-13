@@ -75,8 +75,7 @@
 
 - 📧 **Email:** [simarnarula1477@gmail.com](mailto:simarnarula1477@gmail.com)  
 - 📱 **Phone:** +91 95415-70111  
-- 💼 **LinkedIn:** [Simar Narula](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-- 🐦 **Twitter:** *(Optional – add if you use one)*
+- 💼 **LinkedIn:** [Simar Narula](https://www.linkedin.com/in/simar-narula-0a5b25360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
